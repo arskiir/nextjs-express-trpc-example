@@ -1,5 +1,7 @@
 # nextjs-express-trpc-example
 
+Please checkout [tRPC](https://trpc.io/). 😊
+
 ## client/frontend
 
 ```
